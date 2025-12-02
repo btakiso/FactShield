@@ -1,0 +1,42 @@
+# FactShield: Fake News Detection System
+# Python 3.10+ required
+
+# Core ML & Data Science
+scikit-learn==1.5.2
+numpy==1.26.4
+pandas==2.2.3
+
+# NLP & Text Processing
+nltk==3.9.1
+spacy==3.8.2
+textblob==0.18.0
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.1
+
+# Jupyter & Development
+jupyter==1.1.1
+ipykernel==6.29.5
+ipywidgets==8.1.5
+
+# Testing & Code Quality
+pytest==8.3.3
+black==24.10.0
+flake8==7.1.1
+
+# Utilities
+tqdm==4.66.5
+python-dotenv==1.0.1
+joblib==1.4.2
+
+# Deep Learning (Optional - for advanced phase)
+# tensorflow==2.17.0
+# transformers==4.45.0
+# torch==2.4.1
+
+# Web Interface (Optional)
+# flask==3.0.3
+# streamlit==1.39.0
+
