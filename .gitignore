@@ -4,14 +4,15 @@
 # ============================================
 
 # ============================================
-# PAPER & SUBMISSION FILES (Keep Private)
+# SUBMISSION & PRESENTATION FILES (Keep Private)
 # ============================================
-paper/
 submission/
 presentation/
-*.pdf
 *.docx
 *.pptx
+
+# Keep PDF files private (except paper)
+# paper/*.pdf is tracked
 
 # ============================================
 # DATA FILES (Too large / download from Kaggle)
